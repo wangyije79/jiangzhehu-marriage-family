@@ -1,0 +1,22 @@
+name: marriage-261012-fangchan-guishu
+title: 婚内房产归属
+positioning: 婚后购房、父母出资与加名减名的处理
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: ac2e3f7bcd655e8ea5d47699c6d18abbe80f85d8a54de561ed3b0c6fec6572f7

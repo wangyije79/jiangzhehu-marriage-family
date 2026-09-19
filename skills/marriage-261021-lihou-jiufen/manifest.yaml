@@ -1,0 +1,22 @@
+name: marriage-261021-lihou-jiufen
+title: 离婚后财产纠纷
+positioning: 漏分财产、发现隐藏财产与协议反悔
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: acc8469b512eb33c96167278601434e31815abca1ac9e7b80ff8c80b14565fff

@@ -1,0 +1,22 @@
+name: marriage-261026-yichan-zhaiwu
+title: 遗产范围与债务清偿
+positioning: 遗产界定、限定继承与共同财产析出
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 4eb442e2fe2f26b441b983947fc04258ee9852833f1553589b5e496ceae1359a

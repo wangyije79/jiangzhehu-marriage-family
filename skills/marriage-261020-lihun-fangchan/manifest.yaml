@@ -1,0 +1,22 @@
+name: marriage-261020-lihun-fangchan
+title: 离婚时的房产分割
+positioning: 按揭房、一方首付与父母出资房
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 16c23f6f8418a4208f6c724dff5f7408f4f070990cc041b0adeeb15745b7b443

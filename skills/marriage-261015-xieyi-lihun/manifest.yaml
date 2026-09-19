@@ -1,0 +1,22 @@
+name: marriage-261015-xieyi-lihun
+title: 协议离婚与冷静期
+positioning: 冷静期规则、离婚协议效力与登记流程
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 5c188c6675a0839a00e9b54fcbee65b535cb7c64f83ed90368ca34205dbfa0dc

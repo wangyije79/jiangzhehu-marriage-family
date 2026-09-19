@@ -1,0 +1,22 @@
+name: marriage-261014-hunnei-fenge
+title: 婚内财产分割与保全
+positioning: 婚内析产、转移财产与财产保全
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: af437ef9ca907bb04e61dec266bb4737288f0c5e4a15a0a99c12c8795422488e

@@ -1,0 +1,22 @@
+name: marriage-261022-fuyangquan
+title: 抚养权归属
+positioning: 两周岁以下、八周岁意愿与最有利原则
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 51b0fc403ae7669c4f9648c43fd45ab3df72cbdea74fff9383468466a56dcf4c

@@ -1,0 +1,22 @@
+name: marriage-261018-lihun-peichang
+title: 离婚损害赔偿与过错
+positioning: 重婚同居、家暴虐待与赔偿范围
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: f227531420d8ddbd33f8be29bf78e9f2d98bd611030b58b1b15ba5dea52a478b

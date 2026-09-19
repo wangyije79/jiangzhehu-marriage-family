@@ -1,0 +1,22 @@
+name: marriage-261009-caili-hunyue
+title: 彩礼与婚约财产
+positioning: 彩礼返还三情形、范围界定与恋爱期间大额转账
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 07d9228aa75a5ecff2593815b28f3b9189045514c1d0ff8c77557c569dbe5bae

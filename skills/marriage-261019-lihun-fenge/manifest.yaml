@@ -1,0 +1,22 @@
+name: marriage-261019-lihun-fenge
+title: 离婚财产分割规则
+positioning: 照顾原则、隐藏转移少分与协议处理
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: e858e2f1a82daffe9a1475b3a8051f317f4842f0a338d3d8120bf26680e89ec0

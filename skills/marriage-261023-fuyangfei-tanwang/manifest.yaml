@@ -1,0 +1,22 @@
+name: marriage-261023-fuyangfei-tanwang
+title: 抚养费与探望权
+positioning: 抚养费标准、变更与探望权执行
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 889985d49e12802c41aa4e0254890070120a4b01c0d8c813b3f1ede3aa6fa506

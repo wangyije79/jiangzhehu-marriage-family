@@ -1,0 +1,22 @@
+name: marriage-261025-yizhu-xiaoli
+title: 遗嘱形式与效力
+positioning: 六种遗嘱形式、形式要件与多份遗嘱冲突
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: bd2e2e95648a2b5ed080ab1ac4e4233eb71def8406fda1f5259e5894fcdf0d22

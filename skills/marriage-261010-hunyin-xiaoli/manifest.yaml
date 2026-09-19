@@ -1,0 +1,22 @@
+name: marriage-261010-hunyin-xiaoli
+title: 婚姻效力与撤销
+positioning: 无效婚姻、可撤销婚姻与隐瞒重大疾病
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: f5e55f166683bfe32551f57bf288ce6c88bcc144a3b98a1e3761832fe6522a20

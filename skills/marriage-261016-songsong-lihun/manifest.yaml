@@ -1,0 +1,22 @@
+name: marriage-261016-songsong-lihun
+title: 诉讼离婚与判离标准
+positioning: 感情破裂认定、第一次不判离与再次起诉
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: c39ed5b21aff93d539a4a92b251dd53213a45b65dba17a3f9e518bb182318938

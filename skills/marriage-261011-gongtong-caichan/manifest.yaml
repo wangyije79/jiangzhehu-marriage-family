@@ -1,0 +1,22 @@
+name: marriage-261011-gongtong-caichan
+title: 夫妻共同财产认定
+positioning: 工资奖金、投资收益与个人财产的界限
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 1173e3436f3d84cb830d8e01fd48262e4dc75be84b895deb147856c60b078f57

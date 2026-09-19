@@ -1,0 +1,22 @@
+name: marriage-261013-gongtong-zhaiwu
+title: 夫妻共同债务
+positioning: 共债共签、日常生活需要与举证责任
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 9ca74e94badfe75850ffe0f1f9ed7b2f7f68d6a455555c204ac778b8af3c4495

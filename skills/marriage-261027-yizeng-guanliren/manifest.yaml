@@ -1,0 +1,22 @@
+name: marriage-261027-yizeng-guanliren
+title: 遗赠与遗产管理人
+positioning: 遗赠要件、接受期限与遗产管理人职责
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 3c46bff4c6bdb5087a3c05c2f39239416362362e74a6a8b47a323b60f11b52af

@@ -1,0 +1,22 @@
+name: marriage-261008-hunqian-caichan
+title: 婚前财产与婚前协议
+positioning: 婚前财产界定、协议效力与房产加名
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 5f3b7a485af3c89274c110cd6c3029a407a6b3689b611aa32516aa489d13b9d7
